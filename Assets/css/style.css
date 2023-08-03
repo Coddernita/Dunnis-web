@@ -20,7 +20,7 @@
    * colors
    */
 
-    --selective-yellow: hsl(42, 94%, 55%);
+    --selective-yellow: hsl(42, 69%, 50%);
     --eerie-black-1: hsl(0, 0%, 9%);
     --eerie-black-2: hsl(180, 3%, 7%);
     --quick-silver: hsl(0, 0%, 65%);
@@ -634,7 +634,7 @@ body {
 
 
 /*-----------------------------------*\
-  #COURSE
+  #Gallery
 \*-----------------------------------*/
 
 .course {
